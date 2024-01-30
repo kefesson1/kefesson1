@@ -1,6 +1,6 @@
 ### Olá 👋, me chamo Kefesson Araujo.
 
-* 🔭 Sou Desenvolvedor Front-End. Atualmente estou estudando e me desenvolvendo com as stacks react e typescript.
+* 🔭 Sou Desenvolvedor Front-End. Atualmente estou estudando e me desenvolvendo com as stacks JavaScript e React.
 * 🌱 No momento estou me especializando no Front-End e suas tecnologias, entretanto tenho a ambição de expandir meus conhecimentos.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kefesson1&show_icons=true&theme=dracula)-->
